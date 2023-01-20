@@ -1,4 +1,4 @@
-###Testing con Vitest
+# Testing con Vitest
 
 Instalación y configuración de librerías necesarias para hacer testing aplicando metodología TDD (Test-driven Development).
 
